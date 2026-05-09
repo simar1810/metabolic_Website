@@ -1,9 +1,9 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.bloom&hl=en_ZA';
+  'https://apps.apple.com/us/app/metabolic-wellness/id6763738260';
 const APP_STORE_URL =
-  'https://apps.apple.com/pl/app/body-under-observation/id6761055698';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.metabolicwellness';
 
 const IOS_REGEX = /iPhone|iPad|iPod/i;
 const ANDROID_REGEX = /Android/i;
