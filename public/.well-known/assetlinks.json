@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.bloom",
+      "package_name": "com.wellnessz.metabolicwellness",
       "sha256_cert_fingerprints": [
-        "1E:D5:13:AA:AF:9C:1D:DF:43:3F:41:77:4B:DE:F7:58:29:AE:2D:C3:F7:93:58:A3:9C:43:4A:22:EA:FB:B2:E3"
+        "26:32:C4:4C:9A:83:E9:FD:90:AE:DD:A8:30:72:3E:12:E8:B5:0C:12:D9:1D:3C:F9:5C:D4:72:BA:9D:A7:09:5C"
       ]
     }
   }

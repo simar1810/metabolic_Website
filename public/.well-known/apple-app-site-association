@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["YB5RW5JH8M.com.wellnessz.bloom"],
+        "appIDs": ["YB5RW5JH8M.com.wellnessz.metabolicwellness"],
         "paths": ["/app/*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["YB5RW5JH8M.com.wellnessz.bloom"]
+    "apps": ["YB5RW5JH8M.com.wellnessz.metabolicwellness"]
   }
 }

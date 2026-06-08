@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "BloomSync",
-  description: "BloomSync",
+  title: "Metabolic Wellness",
+  description: "Metabolic Wellness",
 };
 
 export default function RootLayout({ children }) {
